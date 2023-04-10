@@ -1,0 +1,175 @@
+# Project information
+site_name: MORAI SIM 1.0 - KR
+docs_dir: '../../docs/ko'
+site_dir: '../../site/ko'
+site_url: https://morai-docs.github.io/sim1.0/site/ko
+site_author: MORAI Engineering Service Team
+site_description: Release Documentation for MORAI SIM 1.0/KR
+site_author: MORAI Engineering Service Team
+
+# Repository
+repo_name: morai-docs/sim1.0
+repo_url: https://github.com/morai-docs/sim1.0
+
+copyright: Copyright &copy; 2023 <a href="https://www.morai.ai">MORAI Inc.</a> Maintained by the <a href="https://github.com/morai-docs">MORAI-Docs Team.</a>
+
+
+# Configuration
+theme:
+  name: material
+  custom_dir: '../../material/.overrides'
+  logo: assets/logo.png
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/Favicon.png
+  icon:
+    logo: logo
+  language: ko
+
+# Plugins
+plugins:
+  - search:
+      lang: ko
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+
+# Hooks
+hooks:
+  - material/.overrides/hooks/translations.py
+
+
+# Customization
+extra:
+  annotate:
+    json: [.s2]
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/morai-docs
+
+  alternate:
+    - name: Korean
+      link: /sim1.0/site/ko/ 
+      lang: ko
+
+    - name: English
+      link: /sim1.0/site/en/ 
+      lang: en
+
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+# Page tree
+nav:
+  - Home: index.md
+  - SIM Drive: 
+    - simdrive/index.md
+    - Release Note: simdrive/release/release-notes.md
+    - About this Document:
+      - Revision History: simdrive/about/revision-history.md
+      - simdrive/about/overview.md
+      - simdrive/about/terms-conventions.md
+    - Introduction: 
+      - simdrive/intro/morai-simair.md
+    - Gettign Started: 
+      - simdrive/getting-started/index.md
+      - simdrive/getting-started/installation.md
+      - User Interface: simdrive/getting-started/ui.md
+    - Using SIM Drive:
+      - simdrive/user-guide/index.md
+      - Basic Controls: simdrive/user-guide/basic-controls.md
+      - simdrive/user-guide/network.md
+      - Sensor Settings: simdrive/user-guide/sensors.md
+
+  - SIM Air: 
+    - simair/index.md
+    - Introduction: 
+      - simair/intro/morai-simair.md
+  - SIM Robotics: 
+    - sim-robot.md
+  - SIM Maritime: 
+    - sim-mari.md
+
+

@@ -1,0 +1,25 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+{% extends "base.html" %}
+{% block extrahead %}
+  <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.css' | url }}">
+{% endblock %}
+
+{% block announce %}
+  {{ super() }}
+  <script src="{{ 'assets/javascripts/custom.js' | url }}"></script>
+  For Technical issues, Go to <strong>Technical Support</strong> channel in
+  <a rel="me" href="https://discord.gg/qznWWuH5Vm">
+    <span class="twemoji mastodon">
+      {% include ".icons/fontawesome/brands/discord.svg" %}
+    </span>
+    <strong>MORAI Discord</strong>
+  </a>
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script src="{{ 'assets/javascripts/custom.js' | url }}"></script>
+{% endblock %}
+
