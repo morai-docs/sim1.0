@@ -2,7 +2,7 @@
 site_name: MORAI SIM 1.0 - KR
 docs_dir: '../../docs/ko'
 site_dir: '../../site/ko'
-site_url: https://morai-docs.github.io/sim1.0/ko
+site_url: https://morai-docs.github.io/sim1.0/site/ko
 site_author: MORAI Engineering Service Team
 site_description: Release Documentation for MORAI SIM 1.0/KR
 site_author: MORAI Engineering Service Team
@@ -90,11 +90,11 @@ extra:
 
   alternate:
     - name: Korean
-      link: /sim1.0/ko/ 
+      link: /sim1.0/site/ko/ 
       lang: ko
 
     - name: English
-      link: /sim1.0/en/ 
+      link: /sim1.0/site/en/ 
       lang: en
 
 
