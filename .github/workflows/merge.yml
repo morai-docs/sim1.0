@@ -24,7 +24,3 @@ jobs:
       run: |
         git commit -s -am "Update en"
         git push origin gh-pages
-      with:
-        branch: gh-pages
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-
