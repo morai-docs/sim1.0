@@ -18,7 +18,7 @@ jobs:
     
     - name: Merge Master en build to gh-pages branch  # 'main' 브랜치로 branch checkout
       run: |
-        git checkout -p master -- site/en
+        git checkout -p master -- site/en/
 
     - name: Push changes to main branch # merge 내용들을 main 브랜치로 최종 push
         uses: ad-m/github-push-action@master
