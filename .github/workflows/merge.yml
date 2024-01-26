@@ -21,8 +21,10 @@ jobs:
         git checkout -p master -- site/en/
 
     - name: Push changes to main branch # merge 내용들을 main 브랜치로 최종 push
-        uses: ad-m/github-push-action@master
-        with:
-          branch: gh-pages
-         # github_token: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git commit -s -am "Update en"
+        git push origin gh-pages
+      with:
+        branch: gh-pages
+        github_token: ${{ secrets.GITHUB_TOKEN }}
 
