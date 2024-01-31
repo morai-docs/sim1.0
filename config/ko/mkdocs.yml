@@ -54,7 +54,7 @@ theme:
     - scheme: slate
       primary: indigo
       accent: indigo
-      toggle:
+      toggle:http://localhost:8000/0.0/user-guide/
         icon: material/brightness-4
         name: Switch to light mode
   font:

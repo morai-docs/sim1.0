@@ -1,313 +1,313 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/sim-drive/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/sim-drive/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/sim-mari/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/sim-mari/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/sim-robot/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/sim-robot/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/api-guide/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/api-guide/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/developer-guide/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/developer-guide/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/developer-guide/basic-controls/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/developer-guide/basic-controls/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/developer-guide/network/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/developer-guide/network/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/developer-guide/sensors/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/developer-guide/sensors/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/developer-guide/useful/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/developer-guide/useful/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/getting-started/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/getting-started/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/getting-started/execution/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/getting-started/execution/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/getting-started/network/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/getting-started/network/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/getting-started/requirements/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/getting-started/requirements/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simair/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simair/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simair/intro/morai-simair/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simair/intro/morai-simair/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/ui/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/ui/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/about/overview/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/about/overview/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/about/revision-history/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/about/revision-history/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/about/terms-conventions/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/about/terms-conventions/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/getting-started/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/getting-started/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/getting-started/installation/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/getting-started/installation/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/getting-started/ui/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/getting-started/ui/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/intro/morai-simair/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/intro/morai-simair/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/release/release-notes/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/release/release-notes/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/user-guide/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/user-guide/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/user-guide/basic-controls/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/user-guide/basic-controls/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/user-guide/network/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/user-guide/network/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/user-guide/sensors/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/user-guide/sensors/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/simdrive/user-guide/useful/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/simdrive/user-guide/useful/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/about/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/about/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/about/revision-history/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/about/revision-history/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/about/terms-conventions/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/about/terms-conventions/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/getting-started/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/getting-started/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/getting-started/execution/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/getting-started/execution/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/getting-started/requirements/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/getting-started/requirements/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/intro/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/intro/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/release-notes/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/release-notes/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/how/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/how/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/how/basic-controls/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/how/basic-controls/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/how/sensors/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/how/sensors/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/how/useful/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/how/useful/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/ui/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/ui/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/ui/default/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/ui/default/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simair/ui/instruments/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simair/ui/instruments/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/release-notes/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/release-notes/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/how/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/how/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/how/basic-controls/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/how/basic-controls/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/how/essential/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/how/essential/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/how/scenario/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/how/scenario/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/how/sensors/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/how/sensors/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/how/useful/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/how/useful/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/ui/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/ui/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/ui/clustermap/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/ui/clustermap/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/ui/default/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/ui/default/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simdrive/ui/driving/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simdrive/ui/driving/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simmari/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simmari/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://morai-docs.github.io/sim1.0/en/stable/user-guide/simrobot/</loc>
-         <lastmod>2024-01-26</lastmod>
+         <loc>https://morai-docs.github.io/sim1.0/en/stable/0.1/user-guide/simrobot/</loc>
+         <lastmod>2024-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
