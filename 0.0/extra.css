@@ -1,10 +1,10 @@
-
-.md-typeset p {
+.md-typeset p, li {
   font-size: 15px; /*230316*/
-  line-height: 1.2rem; /*230316*/
+  line-height: 1.5rem; /*230316*/
 }
 
-.md-typeset .admonition p,
+
+.md-typeset .admonition,
 .md-typeset details {
   font-family: Roboto;
   font-size: 15px; /*230316*/
@@ -23,7 +23,6 @@ p pre {
     border: 0;
     margin: 0 2px;
     padding: 0 5px;
-    /* font-size: 15px; */
 }
 
 .md-typeset code, li code, pre, li pre {
@@ -41,10 +40,10 @@ table pre {
   height: auto;
   display: block;
 
-  padding-top: 10px;
+
   margin-bottom: 0;
   /* padding-top: 5px; */
-  padding-bottom: 0px;
+  padding-bottom: -1;
 
   border: 0;
   -ms-interpolation-mode: bicubic;
@@ -54,17 +53,11 @@ table pre {
 
 .md-typeset figure {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: -1;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 16px;
 }
 
-.md-typeset figcaption {
-  padding-top: 0px;
-  padding-bottom: 10px;
-  /* margin-bottom: 20px; */
-  font-size: 14px;
-}
 
 /*230515*/
 
@@ -73,13 +66,13 @@ table pre {
 }
 
 .md-typeset h2 {
-  font-size: 1.5em;
+  /* font-size: 1.5em; */
   margin-top: 2.5em;
   line-height: 1em;  
 }
 
 .md-typeset h3 {
-  font-size: 1.3em;
+  /* font-size: 1.4em; */
   margin-top: 2.5em;
   line-height: 1em;  
 }
@@ -88,13 +81,4 @@ table pre {
   /* font-size: 1.3rem; */
   margin-top: 2.5em;
   line-height: 1em;  
-}
-
-.md-typeset blockquote {
-  font-size: 15px; /*230316*/
-}
-
-.md-typeset li {
-  line-height: 1.5rem; /*230316*/
-  font-size: 15px; /*230316*/
 }
