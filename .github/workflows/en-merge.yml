@@ -1,0 +1,28 @@
+name: Merge en build Master to GH-Pages
+
+on:
+  push:
+    branches: 
+      - master
+  
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Switch gh-pages branch  # 'gh' 브랜치로 branch checkout
+      uses: actions/checkout@v2
+      with:
+        ref: 'gh-pages'
+        #path: en
+    
+    - name: Merge Master en build to gh-pages branch  # 'main' 브랜치로 branch checkout
+      run: |
+        git checkout master -- site/en/*
+        cp -r site/en en/
+        rm -rf site 
+
+    - name: Push changes to main branch # merge 내용들을 gh-pages 브랜치로 최종 push
+      run: |
+        git commit -s -am "Update en version contents"
+        git push origin gh-pages
